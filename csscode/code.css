@@ -1,0 +1,118 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+.roa
+{
+#background-color:#f1f3f4;
+}
+img
+{
+height:140px;
+width:120px;
+}
+.cola
+{
+font-size:35px;
+font-family:Gabriola;
+color:blue;
+font-weight:bold;
+}
+h4
+{
+font-size:30px;
+font-family:Gabriola;
+margin-left:5%;
+color:blue;
+font-weight:bold;
+}
+.menu ul
+{
+list-style-type:none;
+}
+.menu ul li
+{
+display:inline;
+}
+.menu ul li a
+{
+text-decoration:none;
+font-family:Javanese Text;
+line-height:25px;
+font-weight:bold;
+}
+.menu ul li:hover
+{
+#background-color:cyan;
+text-decoration:overline underline;
+}
+.menu2 ul
+{
+list-style-type:none;
+}
+.menu2 ul li a
+{
+color:black;
+font-family:Gabriola;
+font-size:20px;
+font-weight:bold;
+padding:5px;
+float:left;
+}
+.img1
+{
+height:50px;
+width:50px;
+}
+.menu3
+{
+background-color:#00aecd;
+}
+.menu3 ul
+{
+list-style-type:none;
+}
+.menu3 ul li
+{
+display:inline;
+padding:15px;
+}
+.menu3 ul li a
+{
+color:white;
+font-weight:bold;
+text-decoration:none;
+font-size:20px;
+font-family:Gabriola;
+}
+.menu3 ul li:hover
+{
+text-decoration:overline;
+}
+.sea
+{
+height:30px;
+border-radius:10px;
+width:auto;
+}
+.img2
+{
+height:150px;
+width:200px;
+}
+.abc
+{
+padding:14%;
+font-size:20px;
+font-family:Gabriola;
+font-weight:bold;
+}
+.footer
+{
+background-color:black;
+color:white;
+text-align:center;
+font-family:Gabriola;
+font-size:30px;
+}
